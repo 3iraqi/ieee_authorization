@@ -139,8 +139,8 @@ body: SafeArea(
           height: 60,
           width: double.infinity,
           child: Center(
-            child: Text(
-              'Sign Up'.toUpperCase(),
+            child: const Text(
+              'Sign Up',
 
               style: const TextStyle(
 
