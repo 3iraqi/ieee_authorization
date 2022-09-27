@@ -139,7 +139,7 @@ body: SafeArea(
           height: 60,
           width: double.infinity,
           child: Center(
-            child: const Text(
+            child:  Text(
               'Sign Up',
 
               style: const TextStyle(
